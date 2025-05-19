@@ -1,0 +1,2462 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1334,
+          35.6835
+        ]
+      },
+      "properties": {
+        "遺跡名": "内野第1遺跡",
+        "所在地": "花見川区宇那谷町",
+        "遣跡コード": "1-023",
+        "緯度": "35.6835",
+        "経度": "140.1334",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0502,
+          35.6669
+        ]
+      },
+      "properties": {
+        "遺跡名": "奈良熊遺跡",
+        "所在地": "花見川区幕張町",
+        "遣跡コード": "1-065",
+        "緯度": "35.6669",
+        "経度": "140.0502",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0625,
+          35.6669
+        ]
+      },
+      "properties": {
+        "遺跡名": "奈良熊南遺跡",
+        "所在地": "花見川区武石町",
+        "遣跡コード": "1-070",
+        "緯度": "35.6669",
+        "経度": "140.0625",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.07,
+          35.6668
+        ]
+      },
+      "properties": {
+        "遺跡名": "築地貝塚",
+        "所在地": "花見川区長作町",
+        "遣跡コード": "1-030",
+        "緯度": "35.6668",
+        "経度": "140.07",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1169,
+          35.6733
+        ]
+      },
+      "properties": {
+        "遺跡名": "子和清水遺跡",
+        "所在地": "花見川区三角町",
+        "遣跡コード": "1-052",
+        "緯度": "35.6733",
+        "経度": "140.1169",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1001,
+          35.6667
+        ]
+      },
+      "properties": {
+        "遺跡名": "一枚田遺跡",
+        "所在地": "花見川区犢橋町",
+        "遣跡コード": "1-111",
+        "緯度": "35.6667",
+        "経度": "140.1001",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1,
+          35.6669
+        ]
+      },
+      "properties": {
+        "遺跡名": "米之内遺跡",
+        "所在地": "花見川区畑町",
+        "遣跡コード": "1-109",
+        "緯度": "35.6669",
+        "経度": "140.1",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0992,
+          35.6669
+        ]
+      },
+      "properties": {
+        "遺跡名": "馬場塚遺跡",
+        "所在地": "花見川区柑橋町",
+        "遣跡コード": "1-118",
+        "緯度": "35.6669",
+        "経度": "140.0992",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1002,
+          35.6578
+        ]
+      },
+      "properties": {
+        "遺跡名": "定原遺跡",
+        "所在地": "稲毛区宮野木町",
+        "遣跡コード": "2-010",
+        "緯度": "35.6578",
+        "経度": "140.1002",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0834,
+          35.6502
+        ]
+      },
+      "properties": {
+        "遺跡名": "牛尾舛遺跡",
+        "所在地": "稲毛区小中台町",
+        "遣跡コード": "2-021",
+        "緯度": "35.6502",
+        "経度": "140.0834",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0836,
+          35.6334
+        ]
+      },
+      "properties": {
+        "遺跡名": "東ノ上貝塚",
+        "所在地": "稲毛区小中台町",
+        "遣跡コード": "2-022",
+        "緯度": "35.6334",
+        "経度": "140.0836",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1,
+          35.6334
+        ]
+      },
+      "properties": {
+        "遺跡名": "馬場遣跡",
+        "所在地": "稲毛区園生町",
+        "遣跡コード": "1-118",
+        "緯度": "35.6334",
+        "経度": "140.1",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0835,
+          35.65
+        ]
+      },
+      "properties": {
+        "遺跡名": "小中台A遺跡",
+        "所在地": "稲毛区小中台町",
+        "遣跡コード": "2-023",
+        "緯度": "35.65",
+        "経度": "140.0835",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1661,
+          36.0828
+        ]
+      },
+      "properties": {
+        "遺跡名": "東ノ上東貝塚",
+        "所在地": "稲毛区小中台町",
+        "遣跡コード": "2-030",
+        "緯度": "36.0828",
+        "経度": "140.1661",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1,
+          35.6458
+        ]
+      },
+      "properties": {
+        "遺跡名": "高崎遺跡",
+        "所在地": "稲毛区園生町",
+        "遣跡コード": "2-044",
+        "緯度": "35.6458",
+        "経度": "140.1",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1002,
+          35.6428
+        ]
+      },
+      "properties": {
+        "遺跡名": "狐塚西遺跡",
+        "所在地": "稲毛区園生町",
+        "遣跡コード": "2-039",
+        "緯度": "35.6428",
+        "経度": "140.1002",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1161,
+          35.6436
+        ]
+      },
+      "properties": {
+        "遺跡名": "園生新山遺跡",
+        "所在地": "稲毛区園生町",
+        "遣跡コード": "2-070",
+        "緯度": "35.6436",
+        "経度": "140.1161",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1168,
+          35.6334
+        ]
+      },
+      "properties": {
+        "遺跡名": "五味ノ木遺跡",
+        "所在地": "稲毛区萩台町",
+        "遣跡コード": "2-060",
+        "緯度": "35.6334",
+        "経度": "140.1168",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1001,
+          35.6169
+        ]
+      },
+      "properties": {
+        "遺跡名": "園生貝塚",
+        "所在地": "稲毛区園生町",
+        "遣跡コード": "2-046",
+        "緯度": "35.6169",
+        "経度": "140.1001",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1334,
+          35.6502
+        ]
+      },
+      "properties": {
+        "遺跡名": "愛生遺跡",
+        "所在地": "若葉区愛生町",
+        "遣跡コード": "3-012",
+        "緯度": "35.6502",
+        "経度": "140.1334",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1168,
+          35.6336
+        ]
+      },
+      "properties": {
+        "遺跡名": "餅ケ崎遺跡",
+        "所在地": "若葉区源町",
+        "遣跡コード": "3-002",
+        "緯度": "35.6336",
+        "経度": "140.1168",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1334,
+          35.6336
+        ]
+      },
+      "properties": {
+        "遺跡名": "すすき山遺跡",
+        "所在地": "若葉区脈町",
+        "遣跡コード": "3-003",
+        "緯度": "35.6336",
+        "経度": "140.1334",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1334,
+          35.6169
+        ]
+      },
+      "properties": {
+        "遺跡名": "海老遺跡",
+        "所在地": "若葉区みつわ台",
+        "遣跡コード": "3-019",
+        "緯度": "35.6169",
+        "経度": "140.1334",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1334,
+          35.6389
+        ]
+      },
+      "properties": {
+        "遺跡名": "廿五里北貝塚",
+        "所在地": "若葉区源町",
+        "遣跡コード": "3-001",
+        "緯度": "35.6389",
+        "経度": "140.1334",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1457,
+          35.6277
+        ]
+      },
+      "properties": {
+        "遺跡名": "草刈場北遺跡",
+        "所在地": "若葉区貝塚町",
+        "遣跡コード": "3-062",
+        "緯度": "35.6277",
+        "経度": "140.1457",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1335,
+          35.6167
+        ]
+      },
+      "properties": {
+        "遺跡名": "草刈場貝塚",
+        "所在地": "若葉区貝塚町",
+        "遣跡コード": "3-061",
+        "緯度": "35.6167",
+        "経度": "140.1335",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1334,
+          35.6169
+        ]
+      },
+      "properties": {
+        "遺跡名": "谷津上遺跡",
+        "所在地": "中央区都町",
+        "遣跡コード": "3-072",
+        "緯度": "35.6169",
+        "経度": "140.1334",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1334,
+          35.6169
+        ]
+      },
+      "properties": {
+        "遺跡名": "荒屋敷貝塚",
+        "所在地": "若葉区貝塚町",
+        "遣跡コード": "3-077",
+        "緯度": "35.6169",
+        "経度": "140.1334",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1334,
+          35.6169
+        ]
+      },
+      "properties": {
+        "遺跡名": "荒屋敷北貝塚",
+        "所在地": "若葉区貝塚町",
+        "遣跡コード": "3-079",
+        "緯度": "35.6169",
+        "経度": "140.1334",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1501,
+          35.6239
+        ]
+      },
+      "properties": {
+        "遺跡名": "加曽利貝塚",
+        "所在地": "若葉区桜木町",
+        "遣跡コード": "3-104",
+        "緯度": "35.6239",
+        "経度": "140.1501",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1501,
+          35.6169
+        ]
+      },
+      "properties": {
+        "遺跡名": "加曽利隣接地遺跡",
+        "所在地": "若葉区桜木町",
+        "遣跡コード": "3-105",
+        "緯度": "35.6169",
+        "経度": "140.1501",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1573,
+          35.6294
+        ]
+      },
+      "properties": {
+        "遺跡名": "大作北遺跡",
+        "所在地": "若菓区桜木町",
+        "遣跡コード": "3-566",
+        "緯度": "35.6294",
+        "経度": "140.1573",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1667,
+          35.6289
+        ]
+      },
+      "properties": {
+        "遺跡名": "滑橋貝塚",
+        "所在地": "若菓区小倉町",
+        "遣跡コード": "3-112",
+        "緯度": "35.6289",
+        "経度": "140.1667",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1783,
+          35.6168
+        ]
+      },
+      "properties": {
+        "遺跡名": "中薙遺跡",
+        "所在地": "若葉区小店町",
+        "遣跡コード": "3-113",
+        "緯度": "35.6168",
+        "経度": "140.1783",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1675,
+          35.6319
+        ]
+      },
+      "properties": {
+        "遺跡名": "広ヶ作遺跡",
+        "所在地": "若葉区小倉町",
+        "遣跡コード": "3-116",
+        "緯度": "35.6319",
+        "経度": "140.1675",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1669,
+          35.6156
+        ]
+      },
+      "properties": {
+        "遺跡名": "台さら坊遺跡",
+        "所在地": "若葉区坂月町",
+        "遣跡コード": "3-159",
+        "緯度": "35.6156",
+        "経度": "140.1669",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1667,
+          35.5834
+        ]
+      },
+      "properties": {
+        "遺跡名": "押元貝塚",
+        "所在地": "若葉区大宮町",
+        "遣跡コード": "3-177",
+        "緯度": "35.5834",
+        "経度": "140.1667",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1834,
+          35.5835
+        ]
+      },
+      "properties": {
+        "遺跡名": "貝殻塚遺跡",
+        "所在地": "若葉区多部田町",
+        "遣跡コード": "3-226",
+        "緯度": "35.5835",
+        "経度": "140.1834",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1994,
+          35.5969
+        ]
+      },
+      "properties": {
+        "遺跡名": "うならすず遺跡",
+        "所在地": "若葉区多部田町",
+        "遣跡コード": "3-206",
+        "緯度": "35.5969",
+        "経度": "140.1994",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1835,
+          35.5835
+        ]
+      },
+      "properties": {
+        "遺跡名": "多部田貝塚",
+        "所在地": "若葉区多部田町",
+        "遣跡コード": "3-217",
+        "緯度": "35.5835",
+        "経度": "140.1835",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2001,
+          35.5502
+        ]
+      },
+      "properties": {
+        "遺跡名": "誉田高田貝塚",
+        "所在地": "緑区高田町",
+        "遣跡コード": "5-121",
+        "緯度": "35.5502",
+        "経度": "140.2001",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1503,
+          35.5834
+        ]
+      },
+      "properties": {
+        "遺跡名": "道免遺跡",
+        "所在地": "中央区星久喜町",
+        "遣跡コード": "4-050",
+        "緯度": "35.5834",
+        "経度": "140.1503",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1834,
+          35.5669
+        ]
+      },
+      "properties": {
+        "遺跡名": "築地台貝塚",
+        "所在地": "緑区平山町",
+        "遣跡コード": "5-083",
+        "緯度": "35.5669",
+        "経度": "140.1834",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1835,
+          35.5668
+        ]
+      },
+      "properties": {
+        "遺跡名": "長谷部貝塚",
+        "所在地": "緑区平山町",
+        "遣跡コード": "5-096",
+        "緯度": "35.5668",
+        "経度": "140.1835",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2001,
+          35.5501
+        ]
+      },
+      "properties": {
+        "遺跡名": "東水砂第2遺跡",
+        "所在地": "緑区巻田町",
+        "遣跡コード": "5-162",
+        "緯度": "35.5501",
+        "経度": "140.2001",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1836,
+          35.5502
+        ]
+      },
+      "properties": {
+        "遺跡名": "上深見沢遺跡",
+        "所在地": "緑区脊田町",
+        "遣跡コード": "5-164",
+        "緯度": "35.5502",
+        "経度": "140.1836",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1501,
+          35.5501
+        ]
+      },
+      "properties": {
+        "遺跡名": "高沢貝塚",
+        "所在地": "緑区おゆみ野",
+        "遣跡コード": "5-001",
+        "緯度": "35.5501",
+        "経度": "140.1501",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1502,
+          35.55
+        ]
+      },
+      "properties": {
+        "遺跡名": "上赤塚遺跡",
+        "所在地": "緑区おゆみ野",
+        "遣跡コード": "5-002",
+        "緯度": "35.55",
+        "経度": "140.1502",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1668,
+          35.5502
+        ]
+      },
+      "properties": {
+        "遺跡名": "鎌取遺跡",
+        "所在地": "緑区鎌取町",
+        "遣跡コード": "5-004",
+        "緯度": "35.5502",
+        "経度": "140.1668",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1668,
+          35.5502
+        ]
+      },
+      "properties": {
+        "遺跡名": "六通貝塚",
+        "所在地": "緑区小金沢町",
+        "遣跡コード": "5-036",
+        "緯度": "35.5502",
+        "経度": "140.1668",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1669,
+          35.5334
+        ]
+      },
+      "properties": {
+        "遺跡名": "六通金山遺跡",
+        "所在地": "緑区小金沢町",
+        "遣跡コード": "5-043",
+        "緯度": "35.5334",
+        "経度": "140.1669",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1835,
+          35.5336
+        ]
+      },
+      "properties": {
+        "遺跡名": "大膳野北遺跡",
+        "所在地": "緑区大金沢町",
+        "遣跡コード": "5-042",
+        "緯度": "35.5336",
+        "経度": "140.1835",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1835,
+          35.5334
+        ]
+      },
+      "properties": {
+        "遺跡名": "大膳野南遺跡",
+        "所在地": "緑区大膳野町",
+        "遣跡コード": "5-045",
+        "緯度": "35.5334",
+        "経度": "140.1835",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2169,
+          35.5835
+        ]
+      },
+      "properties": {
+        "遺跡名": "野呂山田遺跡",
+        "所在地": "若葉区野呂町",
+        "遣跡コード": "3-426",
+        "緯度": "35.5835",
+        "経度": "140.2169",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2334,
+          35.5835
+        ]
+      },
+      "properties": {
+        "遺跡名": "芳賀輪遺跡",
+        "所在地": "若葉区古泉町",
+        "遣跡コード": "3-461",
+        "緯度": "35.5835",
+        "経度": "140.2334",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1781,
+          35.5335
+        ]
+      },
+      "properties": {
+        "遺跡名": "ムコアラク",
+        "所在地": "緑区おゆみ野南",
+        "遣跡コード": "98",
+        "緯度": "35.5335",
+        "経度": "140.1781",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2335,
+          35.6319
+        ]
+      },
+      "properties": {
+        "遺跡名": "井戸作南遺跡",
+        "所在地": "若葉区下泉町",
+        "遣跡コード": "0",
+        "緯度": "35.6319",
+        "経度": "140.2335",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2001,
+          35.6002
+        ]
+      },
+      "properties": {
+        "遺跡名": "宇津志野遺跡",
+        "所在地": "若葉区御殿町",
+        "遣跡コード": "0",
+        "緯度": "35.6002",
+        "経度": "140.2001",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2667,
+          35.5169
+        ]
+      },
+      "properties": {
+        "遺跡名": "奥房台遺跡",
+        "所在地": "緑区土気町",
+        "遣跡コード": "0",
+        "緯度": "35.5169",
+        "経度": "140.2667",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1336,
+          35.5835
+        ]
+      },
+      "properties": {
+        "遺跡名": "観音塚遺跡",
+        "所在地": "中央区千葉寺町",
+        "遣跡コード": "0",
+        "緯度": "35.5835",
+        "経度": "140.1336",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1334,
+          35.5502
+        ]
+      },
+      "properties": {
+        "遺跡名": "古市場(1)遺跡",
+        "所在地": "中央区浜野",
+        "遣跡コード": "0",
+        "緯度": "35.5502",
+        "経度": "140.1334",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1001,
+          35.6335
+        ]
+      },
+      "properties": {
+        "遺跡名": "戸張作遺跡",
+        "所在地": "若葉区東寺山町",
+        "遣跡コード": "0",
+        "緯度": "35.6335",
+        "経度": "140.1001",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1667,
+          35.5669
+        ]
+      },
+      "properties": {
+        "遺跡名": "高有遺跡",
+        "所在地": "緑区平山町",
+        "遣跡コード": "0",
+        "緯度": "35.5669",
+        "経度": "140.1667",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2502,
+          35.5714
+        ]
+      },
+      "properties": {
+        "遺跡名": "蛇喰遺跡",
+        "所在地": "若葉区和泉町",
+        "遣跡コード": "0",
+        "緯度": "35.5714",
+        "経度": "140.2502",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0835,
+          35.65
+        ]
+      },
+      "properties": {
+        "遺跡名": "小中台（２）遺跡",
+        "所在地": "稲毛区小中台町",
+        "遣跡コード": "0",
+        "緯度": "35.65",
+        "経度": "140.0835",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0941,
+          35.6497
+        ]
+      },
+      "properties": {
+        "遺跡名": "小中台遺跡",
+        "所在地": "稲毛区小中台町",
+        "遣跡コード": "0",
+        "緯度": "35.6497",
+        "経度": "140.0941",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1168,
+          35.6335
+        ]
+      },
+      "properties": {
+        "遺跡名": "小満遺跡",
+        "所在地": "若葉区殿台町",
+        "遣跡コード": "0",
+        "緯度": "35.6335",
+        "経度": "140.1168",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1334,
+          35.5835
+        ]
+      },
+      "properties": {
+        "遺跡名": "松ヶ丘遺跡",
+        "所在地": "中央区松ヶ丘町",
+        "遣跡コード": "0",
+        "緯度": "35.5835",
+        "経度": "140.1334",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2334,
+          35.6168
+        ]
+      },
+      "properties": {
+        "遺跡名": "上谷津第１遺跡",
+        "所在地": "若葉区上泉町",
+        "遣跡コード": "0",
+        "緯度": "35.6168",
+        "経度": "140.2334",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2501,
+          35.6168
+        ]
+      },
+      "properties": {
+        "遺跡名": "上谷津第２遺跡",
+        "所在地": "若葉区上泉町",
+        "遣跡コード": "0",
+        "緯度": "35.6168",
+        "経度": "140.2501",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2573,
+          35.6038
+        ]
+      },
+      "properties": {
+        "遺跡名": "西唐沢遺跡",
+        "所在地": "若葉区中野町",
+        "遣跡コード": "0",
+        "緯度": "35.6038",
+        "経度": "140.2573",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2167,
+          35.6002
+        ]
+      },
+      "properties": {
+        "遺跡名": "川崎遺跡",
+        "所在地": "若葉区更科町",
+        "遣跡コード": "0",
+        "緯度": "35.6002",
+        "経度": "140.2167",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1001,
+          35.6834
+        ]
+      },
+      "properties": {
+        "遺跡名": "双子塚",
+        "所在地": "花見川区横戸町",
+        "遣跡コード": "0",
+        "緯度": "35.6834",
+        "経度": "140.1001",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1501,
+          35.6001
+        ]
+      },
+      "properties": {
+        "遺跡名": "台畑古墳群",
+        "所在地": "若葉区加曽利町台畑",
+        "遣跡コード": "0",
+        "緯度": "35.6001",
+        "経度": "140.1501",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1168,
+          35.5835
+        ]
+      },
+      "properties": {
+        "遺跡名": "大森第１遺跡",
+        "所在地": "中央区宮崎町",
+        "遣跡コード": "0",
+        "緯度": "35.5835",
+        "経度": "140.1168",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2501,
+          35.5169
+        ]
+      },
+      "properties": {
+        "遺跡名": "大椎第１遺跡",
+        "所在地": "緑区あすみが丘",
+        "遣跡コード": "0",
+        "緯度": "35.5169",
+        "経度": "140.2501",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1501,
+          35.5669
+        ]
+      },
+      "properties": {
+        "遺跡名": "大道遺跡",
+        "所在地": "中央区生実町",
+        "遣跡コード": "0",
+        "緯度": "35.5669",
+        "経度": "140.1501",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2168,
+          35.5168
+        ]
+      },
+      "properties": {
+        "遺跡名": "大野第７遺跡",
+        "所在地": "緑区大木戸町",
+        "遣跡コード": "0",
+        "緯度": "35.5168",
+        "経度": "140.2168",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2502,
+          35.5667
+        ]
+      },
+      "properties": {
+        "遺跡名": "沢ノ台遺跡",
+        "所在地": "若葉区和泉町",
+        "遣跡コード": "0",
+        "緯度": "35.5667",
+        "経度": "140.2502",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2181,
+          35.6406
+        ]
+      },
+      "properties": {
+        "遺跡名": "谷当・上ノ台遺跡",
+        "所在地": "若葉区谷当町",
+        "遣跡コード": "0",
+        "緯度": "35.6406",
+        "経度": "140.2181",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2668,
+          35.5
+        ]
+      },
+      "properties": {
+        "遺跡名": "中鹿子第２遺跡",
+        "所在地": "緑区小山町",
+        "遣跡コード": "0",
+        "緯度": "35.5",
+        "経度": "140.2668",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2136,
+          35.5556
+        ]
+      },
+      "properties": {
+        "遺跡名": "中芝遺跡",
+        "所在地": "緑区高田町",
+        "遣跡コード": "0",
+        "緯度": "35.5556",
+        "経度": "140.2136",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1556,
+          35.6119
+        ]
+      },
+      "properties": {
+        "遺跡名": "田向遺跡",
+        "所在地": "若葉区加曽利町",
+        "遣跡コード": "0",
+        "緯度": "35.6119",
+        "経度": "140.1556",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1335,
+          35.6168
+        ]
+      },
+      "properties": {
+        "遺跡名": "東寺山石神遺跡",
+        "所在地": "若葉区東寺山町",
+        "遣跡コード": "0",
+        "緯度": "35.6168",
+        "経度": "140.1335",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1336,
+          35.6334
+        ]
+      },
+      "properties": {
+        "遺跡名": "廿五里城跡",
+        "所在地": "若葉区東寺山町",
+        "遣跡コード": "0",
+        "緯度": "35.6334",
+        "経度": "140.1336",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2668,
+          35.5169
+        ]
+      },
+      "properties": {
+        "遺跡名": "文六第１遺跡",
+        "所在地": "緑区あすみが丘",
+        "遣跡コード": "0",
+        "緯度": "35.5169",
+        "経度": "140.2668",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2667,
+          35.5002
+        ]
+      },
+      "properties": {
+        "遺跡名": "文六第４遺跡",
+        "所在地": "緑区あすみが丘",
+        "遣跡コード": "0",
+        "緯度": "35.5002",
+        "経度": "140.2667",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1002,
+          35.6631
+        ]
+      },
+      "properties": {
+        "遺跡名": "本郷向遺跡",
+        "所在地": "稲毛区宮野木町",
+        "遣跡コード": "0",
+        "緯度": "35.6631",
+        "経度": "140.1002",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2335,
+          35.6168
+        ]
+      },
+      "properties": {
+        "遺跡名": "明神台遺跡",
+        "所在地": "若葉区下泉町",
+        "遣跡コード": "0",
+        "緯度": "35.6168",
+        "経度": "140.2335",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1667,
+          35.6169
+        ]
+      },
+      "properties": {
+        "遺跡名": "柳沢遺跡",
+        "所在地": "若葉区小倉台",
+        "遣跡コード": "0",
+        "緯度": "35.6169",
+        "経度": "140.1667",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1668,
+          35.5502
+        ]
+      },
+      "properties": {
+        "遺跡名": "六通神社南遺跡",
+        "所在地": "緑区おゆみ野中央",
+        "遣跡コード": "0",
+        "緯度": "35.5502",
+        "経度": "140.1668",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
+    }
+  ]
+}
